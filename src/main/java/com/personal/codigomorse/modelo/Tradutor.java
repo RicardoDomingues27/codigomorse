@@ -1,4 +1,4 @@
-package com.personal.codigo.morse.modelo;
+package com.personal.codigomorse.modelo;
 
 
 public class Tradutor {
@@ -20,6 +20,9 @@ public class Tradutor {
 		return mensagemCompleta;
 	}
 
+	public String toString() {
+		return this.mensagemCompleta;
+	}
 	
 	
 }

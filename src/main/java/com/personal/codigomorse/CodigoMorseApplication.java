@@ -1,4 +1,4 @@
-package com.personal.codigo.morse;
+package com.personal.codigomorse;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,8 +1,8 @@
-package com.personal.codigo.morse.repository;
+package com.personal.codigomorse.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.personal.codigo.morse.modelo.Codigo;
+import com.personal.codigomorse.modelo.Codigo;
 
 public interface CodigoRepository extends JpaRepository<Codigo, Long>{
 	
